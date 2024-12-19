@@ -1,1 +1,1 @@
-# My Project1 with Git
+ my project with git
